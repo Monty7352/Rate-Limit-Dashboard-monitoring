@@ -1,5 +1,5 @@
 {
-    "name": "dev/rate-limit-dashboard",
+    "name": "monty7352/rate-limit-dashboard",
     "description": "A lightweight real-time traffic, rate limit, and auto-blocking monitoring dashboard for Laravel.",
     "type": "library",
     "license": "MIT",
